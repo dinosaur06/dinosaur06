@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <h3>
       write on 
       <a href="https://blog.naver.com/s0u2b1i6n">
-        naver blog
+        blog
       </a>
   </em>
 </p>
